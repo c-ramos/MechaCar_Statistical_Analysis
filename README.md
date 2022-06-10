@@ -4,9 +4,9 @@ The goal of this Analysis is to use historical data to perform analytics verific
 ## Deliverable 1: Linear Regression to Predict MPG
 
 ![Imgs/2.png](https://github.com/c-ramos/MechaCar_Statistical_Analysis/blob/cd156b340c72ef6d126412176590dbe812b2adbb/Imgs/2.png)
-- The variables in the dataset which should a non-random amount of variance to MPG are the vehicle_length and ground_clearance. 
-- The slope if the linear model is not considered to be zero because neither R nor Stdev is zero. The P-value 5.35e-11, indicating a relationship between the dependent and independent variables.
-- The model predicts MPFG because of the R-squared of 71%. 
+- The variables in the dataset which shownon-random amount of variance to MPG are the vehicle_length and ground_clearance. 
+- The slope of the linear model is not considered to be zero because neither R nor Stdev is zero. The P-value 5.35e-11, indicating a relationship between the dependent and independent variables.
+- The model predicts MPG because of the R-squared of 71%. 
 
 
 ## Deliverable 2: Summary Statistics on Suspension Coils
